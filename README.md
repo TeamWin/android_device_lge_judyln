@@ -1,1 +1,1 @@
-# android_device_lge_judyln_twrp
+TWRP Device tree for LG G7 ThinQ (judyln)
