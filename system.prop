@@ -1,0 +1,13 @@
+ro.display.series=LG G7 ThinQ
+ro.product.board=sdm845
+ro.board.platform=sdm845
+ro.build.version.release=9
+ro.build.version.sdk=28
+
+# adb
+ro.adb.secure=0
+ro.secure=0
+ro.allow.mock.location=0
+ro.debuggable=1
+persist.sys.usb.config=mtp,adb
+ro.crypto.type=block
